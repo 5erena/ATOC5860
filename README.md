@@ -13,3 +13,15 @@ Files pertaining to laboratory projects for this course will live here.
 ####  Methods: 
   
     Reading in netcdf files, hypothesis testing with z- and t-tests, constructing confidence intervals, bootstrapping
+
+### Application Lab 2: 
+
+####  Objectives: 
+    Analyzing the memory (red noise) in weather observations from Fort Collins, Colorado at Christman Field
+    Computing the autocorrelation at a range of lag values for 1. Fort Collins meteorological data (wind speed, temperature) 2. EOF analysis output (the Arctic Oscillation Index)
+    Assessing the "effective" sample size, i.e. the number of independent samples in a data set
+    
+####  Methods: 
+  
+    Reading in csv files, calculating autocorrelation using np.correlate and dot products, constructing confidence intervals, correlating two time series, generating a red noise time series with equivalent memory as an observed time series, computing effective sample size (N*)
+ 
