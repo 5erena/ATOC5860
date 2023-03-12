@@ -25,3 +25,12 @@ Files pertaining to laboratory projects for this course will live here.
   
     Reading in csv files, calculating autocorrelation using np.correlate and dot products, constructing confidence intervals, correlating two time series, generating a red noise time series with equivalent memory as an observed time series, computing effective sample size (N*)
  
+### Application Lab 3: 
+
+####  Objectives: 
+    Coming soon
+    
+####  Methods: 
+  
+    Coming soon
+ 
