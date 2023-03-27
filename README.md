@@ -34,3 +34,11 @@ Files pertaining to laboratory projects for this course will live here.
   
     Coming soon
  
+### Application Lab 4: 
+
+####  Objectives: 
+    Coming soon
+    
+####  Methods: 
+  
+    Coming soon
