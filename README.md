@@ -42,3 +42,12 @@ Files pertaining to laboratory projects for this course will live here.
 ####  Methods: 
   
     Coming soon
+
+### Application Lab 5: 
+
+####  Objectives: 
+    Coming soon
+    
+####  Methods: 
+  
+    Coming soon
